@@ -1,0 +1,28 @@
+name: Alexandre Duarte
+favicon: null
+layout_spectrum: 0.17978914896957576
+typography_spectrum: 0.5432993369176984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5534589292947203
+  lightness: 0.8807037170045078
+  saturation: 0.020508148008957505
+  rhythmicContrast: 0.9981585973873734
+purpose: []

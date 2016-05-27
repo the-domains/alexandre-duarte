@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alexandre Duarte]]></title>
+        <description><![CDATA[Alexandre Duarte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 23:59:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74cf2ac-3d2c-4da3-90c5-078b55021e4f.jpg">]]></description>
+            <link>undefinedthe-day-after/index.html</link>
+            <guid isPermaLink="false">3815fe18-e824-4522-a37b-a74820b69999</guid>
+            <pubDate>Thu, 26 May 2016 23:59:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

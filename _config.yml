@@ -1,6 +1,6 @@
 name: Alexandre Duarte
 favicon: null
-layout_spectrum: 0.17978914896957576
+layout_spectrum: 0.99917
 typography_spectrum: 0.5432993369176984
 title: The World According to Me Myself and I
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#070606'
+    - '#b0b0b0'
+    - '#676767'
+    - '#3a3b3b'
   brandStrength: 0.5534589292947203
   lightness: 0.8807037170045078
   saturation: 0.020508148008957505

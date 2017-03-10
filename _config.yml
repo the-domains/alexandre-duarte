@@ -1,29 +1,50 @@
 name: Alexandre Duarte
-favicon: null
-layout_spectrum: 0.99917
-typography_spectrum: 0.5432993369176984
-title: The World According to Me Myself and I
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:alexpdj@protonmail.com'
+    label: Contact me
+  - type: external
+    url: 'https://500px.com/alexandreduarte1'
+    label: 'https://500px.com/alexandreduarte1'
+github: true
+description: Street Photography by Alexandre Duarte
+author:
+  name: Alexandre Duarte
+  url: 'https://500px.com/alexandreduarte1'
+  email: alexpdj@protonmail.com
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.1247120206579013
 color:
+  lightness: 0.17161514711096
   brandColors:
-    - '#ffffff'
-    - '#070606'
-    - '#b0b0b0'
-    - '#676767'
-    - '#3a3b3b'
-  brandStrength: 0
-  lightness: 0.8807037170045078
-  saturation: 0.020508148008957505
-  rhythmicContrast: 0
-purpose: []
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.02390411597114093
+  brandStrength: 0.9386314578374645
+  rhythmicContrast: 0.2815418583660912
+content_rating:
+  adult: false
+typography_spectrum: 0.6187988266679874
+opengraph:
+  appId: 'https://www.facebook.com/theworldaccordingtomemyselfandi/'
+title: 'The World According to Me Myself and I '

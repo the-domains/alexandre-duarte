@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-07T20:56:50.438Z'
-datePublished: '2017-04-07T20:56:52.766Z'
+dateModified: '2017-04-07T21:02:47.475Z'
+datePublished: '2017-04-07T21:02:48.587Z'
 title: Urban Souls
 author: []
 publisher: {}
@@ -15,14 +15,13 @@ url: urban-souls/index.html
 _type: Article
 
 ---
-<?php include_once("analyticstracking.php") ?>
-
 # Urban Souls
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09b14da6-7e17-4b11-aade-3b35def25bc6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab54b9b2-5c3e-4568-b8b2-ac703e3c944b.jpg)
 
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c35234-f1f3-4b9d-8802-58fabd2c57be.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09b14da6-7e17-4b11-aade-3b35def25bc6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b96721-1717-48cc-9d32-01ea7428fc53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d613391d-f502-4983-96d5-86b83af83422.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4da2dd9762ef97734a9c73796239370cee767e.jpg)
@@ -42,7 +41,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71abc938-7c36-4ebc-b8be-5e5ddae257f9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10aeec1738904f17b68602ec643b9777a6c1af8f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ec83c5-6618-44fe-b30e-d99e5dbcd334.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab54b9b2-5c3e-4568-b8b2-ac703e3c944b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f692a0-4d68-45ce-83e0-dc3899e467aa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94c4c7bb-6563-441f-a277-f5b4d3c28862.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d3c8350bf54feebbf14b32eb01c8db8dd54b26b.jpg)

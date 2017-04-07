@@ -1,5 +1,6 @@
 name: Alexandre Duarte
-analytics: {}
+analytics:
+  google: UA-96990468-1
 purpose:
   - type: contact
     url: 'mailto:alexpdj@protonmail.com'

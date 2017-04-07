@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-07T11:15:24.963Z'
-datePublished: '2017-04-07T11:15:26.059Z'
+dateModified: '2017-04-07T11:18:24.097Z'
+datePublished: '2017-04-07T11:18:25.287Z'
 title: Urban Souls
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b96721-1717-48cc-9d32-01ea7428fc53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d613391d-f502-4983-96d5-86b83af83422.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4da2dd9762ef97734a9c73796239370cee767e.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b50f3604259500c12d2652e4cba79c1/croprotate.jpg?cropheight=4866&cropwidth=6770&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe6cfccb1-bbcb-4189-b237-0f9a9052b12f.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b948a4ce52376012b49745c2ed961c9a5d9194e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4260f14-94ba-4664-b3fb-1ce99781a502.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c17c8337-eeb8-426c-b3ef-1718d1cf230d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de679f5da9932e5caaabf5f20099285b13d89c2.jpg)

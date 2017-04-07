@@ -2,9 +2,9 @@ name: The World according to me Myself and I
 analytics:
   google: UA-96990468-1
 purpose:
-  - type: contact
+  - type: email
     url: 'mailto:alexpdj@protonmail.com'
-    label: Contact me
+    label: Contact me for any business inquiries
   - type: external
     url: 'https://500px.com/alexandreduarte1'
     label: 'https://500px.com/alexandreduarte1'

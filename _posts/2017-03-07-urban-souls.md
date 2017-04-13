@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-07T21:02:47.475Z'
-datePublished: '2017-04-07T21:02:48.587Z'
+dateModified: '2017-04-13T16:14:53.621Z'
+datePublished: '2017-04-13T16:14:55.318Z'
 title: Urban Souls
 author: []
 publisher: {}
@@ -36,6 +36,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2a8c8-4dc5-4d91-8916-0c4dc1c0f714.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a35e15-1922-4d5c-9ac2-4e5856750aa3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d3cd22-abb1-4e32-8514-56521ba3e769.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/868e1e0f-0442-46c0-8ac3-85d8c8a6b3d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e7fd9b-84ef-40a2-9542-0a453911319b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d831a915dd1f4b497c6a95289806e74e548a5c2a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71abc938-7c36-4ebc-b8be-5e5ddae257f9.jpg)

@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-19T17:46:14.681Z'
-datePublished: '2017-04-19T17:46:16.547Z'
+dateModified: '2017-05-07T23:43:39.072Z'
+datePublished: '2017-05-07T23:43:41.723Z'
 title: Urban Souls
 author: []
 publisher: {}
@@ -22,7 +22,9 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c35234-f1f3-4b9d-8802-58fabd2c57be.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09b14da6-7e17-4b11-aade-3b35def25bc6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb2ccc1-16a6-411e-b9d7-aef02b2def51.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e14c6f60-283d-4d52-8b57-e7df5f93eb66.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d09d21d-09b7-4a43-88f7-ab20dd77d036.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b96721-1717-48cc-9d32-01ea7428fc53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d613391d-f502-4983-96d5-86b83af83422.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4da2dd9762ef97734a9c73796239370cee767e.jpg)
@@ -37,7 +39,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2a8c8-4dc5-4d91-8916-0c4dc1c0f714.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a35e15-1922-4d5c-9ac2-4e5856750aa3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d3cd22-abb1-4e32-8514-56521ba3e769.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/471e8fec4c7114b98cdb6ef0425ad678/croprotate.jpg?cropheight=6770&cropwidth=5204&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F868e1e0f-0442-46c0-8ac3-85d8c8a6b3d3.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7636f5e99bc06febe4cc5168911ca6a77ad21a7b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e7fd9b-84ef-40a2-9542-0a453911319b.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d831a915dd1f4b497c6a95289806e74e548a5c2a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71abc938-7c36-4ebc-b8be-5e5ddae257f9.jpg)
